@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/pd2871/"><img align="left" alt="Prakash Dahal | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 
 
-<br>
+<br><br>
 
 <!--### Languages and Tools:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -34,7 +34,7 @@
 <BR>
   
 <p>
-    <img class="center" alt="Manish Sharma's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PDahal2871.PDahal2871"/>
+    <img class="center" alt="Prakash's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PDahal2871.PDahal2871"/>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
