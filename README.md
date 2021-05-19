@@ -4,7 +4,7 @@
 ### Currently working as an Associate Data Scientist ❤️
 
 - 🔭 Currently working on - Custom Object Detection and ML usecases 🤗
-- 🌱 Currently learning - Pyspark and MLOps 😁
+- 🌱 Currently learning - Pyspark, MLOps and Transformers😁
 - 👯 I’m looking to collaborate on - DL, ML and Research Papers (❁´◡`❁)
 - 💬 Ask me about - Anything 🧐
 - 👉 Interests - AI and Data Science 🤩
