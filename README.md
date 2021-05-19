@@ -13,7 +13,7 @@
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love to collaborate and connect to people involved in AI</b> </em>
 
 <a href="https://www.linkedin.com/in/pd2871/"><img align="left" alt="Prakash Dahal | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 
