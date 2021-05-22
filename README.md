@@ -1,7 +1,7 @@
 <h2>Hello🤗, I'm Prakash Dahal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Currently working as an Associate Data Scientist ❤️
+### AI and Data Science Enthusiast ❤️
 
 - 🔭 Currently working on - Custom Object Detection and ML usecases 🤗
 - 🌱 Currently learning - Pyspark, MLOps and Transformers😁
@@ -48,8 +48,9 @@
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
+  
 
 <p align="center">
 <a href="https://github.com/PDahal2871">
