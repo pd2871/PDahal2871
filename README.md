@@ -1,4 +1,5 @@
-<h2>Hello🤗, I'm Prakash Dahal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello🤗, I'm Prakash Dahal! </h2>
+<!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### AI and Data Science Enthusiast ❤️
