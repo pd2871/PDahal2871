@@ -2,13 +2,12 @@
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### AI and Data Science Enthusiast ❤️
+### AI Engineer ❤️
 
-- 🔭 Currently working on - Custom Object Detection and ML usecases 🤗
-- 🌱 Currently learning - Pyspark, MLOps and Transformers😁
-- 👯 I’m looking to collaborate on - DL, ML and Research Papers (❁´◡`❁)
-- 💬 Ask me about - Anything 🧐
-- 👉 Interests - AI and Data Science 🤩
+- 💡 Currently working on - Custom Object Detection and ML usecases
+- 🚀 Currently learning - MLOps and MONAI
+- 👯 I’m looking to collaborate on - Deep Learning, Machine Learning and Computer Vision tasks. 
+- 🧲 Interests - AI and Data Science
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
