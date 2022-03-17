@@ -6,7 +6,7 @@
 
 - 💡 Currently working on - Custom Object Detection and ML usecases
 - 🚀 Currently learning - MLOps and MONAI
-- 👯 I’m looking to collaborate on - Deep Learning, Machine Learning and Computer Vision tasks. 
+- 👯 I’m looking to collaborate on - Deep Learning, Machine Learning and Computer Vision. 
 - 🧲 Interests - AI and Data Science
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
