@@ -1,8 +1,8 @@
-<h2>Hello🤗, I'm Prakash Dahal! </h2>
+<h2>Hello, I'm Prakash Dahal! </h2>
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### AI Engineer ❤️
+### AI Engineer 
 
 - 💡 Currently working on - Custom Object Detection and ML usecases
 - 🚀 Currently learning - MLOps and MONAI
