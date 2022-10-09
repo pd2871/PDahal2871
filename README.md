@@ -4,8 +4,8 @@
 
 ### ML Engineer 
 
-- 💡 Currently working on - Custom Object Detection and ML usecases
-- 🚀 Currently learning - MLOps and MONAI
+- 💡 Currently working on - Custom Image Segmentation and ML usecases
+- 🚀 Currently learning - MLOps and Deployment Strategies
 - 👯 I’m looking to collaborate on - Deep Learning, Machine Learning and Computer Vision. 
 - 🧲 Interests - AI and Data Science
 
@@ -33,7 +33,7 @@
 <BR>
   
 <p>
-    <img class="center" alt="Prakash's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=PDahal2871.PDahal2871"/>
+    <img class="center" alt="Prakash's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=pd2871.pd2871"/>
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,14 +52,14 @@
   
 
 <p align="center">
-<a href="https://github.com/PDahal2871">
+<a href="https://github.com/pd2871">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDahal2871&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PDahal2871&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Prakash's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pd2871&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Prakash's github stats"/>
 </a></p>
 <br>
 
 
 <!---
-PDahal2871/PDahal2871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pd2871/pd2871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
