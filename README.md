@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://github.com/pd2871">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDahal2871&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd2871&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pd2871&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Prakash's github stats"/>
 </a></p>
 <br>
