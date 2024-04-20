@@ -2,9 +2,9 @@
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Machine Learning Engineer 
+### Generative AI Engineer 
 
-- 💡 Currently working on - NLP, LLM and Deployment projects
+- 💡 Currently working on - NLP, LLM, Computer Vision and Deployment projects
 - 🚀 Currently learning - MLOps and Deployment Strategies
 - 👯 I’m looking to collaborate on - Deep Learning, Machine Learning and Models Deployment. 
 - 🧲 Interests - AI and Data Science
