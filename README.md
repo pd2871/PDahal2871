@@ -19,7 +19,7 @@
 
 <br><br>
 
-<!--### Languages and Tools:
+### Languages and Tools:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
@@ -28,7 +28,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
--->
+
 
 <BR>
   
@@ -53,14 +53,14 @@
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
   
-<!---
+
 <p align="center">
 <a href="https://github.com/pd2871">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd2871&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pd2871&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Prakash's github stats"/>
 </a></p>
 <br>
---->
+
 
 <!---
 pd2871/pd2871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
